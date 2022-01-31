@@ -1,20 +1,20 @@
-**3340 Voltage Controlled Oscillator
+3340 Voltage Controlled Oscillator
 
-**User Guide
+User Guide
 
 This module is a performance focused take on the classic CEM3340 Curtis chip based oscillators heard in historic synthesizers like the Prophet 5 and Memorymoog.
 
 The most useful features of the chip are made accessible and optimised for sending or receiving control. Panel controls are intended to allow quick and unobstructed access to musical ideas.
 
 
-**Controls
+Controls
 
-**OCTAVE
+OCTAVE
 
 Rotary switch spanning 4 octaves. Great for varying the pitch of melody lines but also like a clock divider/multiplier in low frequency (LF) mode.
 
 
-**FREQ
+FREQ
 
 A linear frequency control. 
 
@@ -26,22 +26,22 @@ The oscillator’s pitch range can be pushed far beyond these panel controls by 
 
 
 
-**LF/AF
+LF/AF
 
 A slide switch that selects between the low frequency and audio frequency mode.
 
 
-**CV
+CV
 
 ±12V compatible. Two input jacks make it easy to add vibrato or other frequency modulation to your melody line or LFO without an external CV mixer. Scalable to 1V/Oct.
 
 
-**SQUARE WAVE
+SQUARE WAVE
 
 Outputs the oscillator’s square waveform. When there is no input to the pulse width modulation (PWM) jack the waveform has a 50% duty cycle. The waveform’s amplitude ranges from 0V to +5V peak.
 
 
-**PWM
+PWM
 
 Controls the pulse width (normally at lower frequencies called duty cycle) of the square wave output. This is the amount of time within a single cycle that the amplitude of the waveform is high vs low. A wide continuum of character is available, from full to nasal sounding. 
 
@@ -54,25 +54,25 @@ You can patch an unused output back into the PWM input to achieve a different sq
 Note the PWM input has no effect on the triangle and ramp waveforms.
 
 
-**TRIANGLE WAVE
+TRIANGLE WAVE
 
 Outputs the oscillator’s triangle waveform. The waveform’s amplitude ranges from 0V to +5V peak.
 
 
-**RAMP WAVE
+RAMP WAVE
 
 Outputs the oscillator’s ramp waveform. Also called a sawtooth wave. The shape of the waveform is exactly as drawn on the panel, a slow positive rising edge to steep decay. The waveform’s amplitude ranges from 0V to +5V peak.
 
 
 
 
-**MASTER TUNE
+MASTER TUNE
 
 This trimpot is hidden inside the leftmost CV input. It is adjusted with the small flat head screwdriver provided with your module. It sets the lowest frequency possible when there is no external CV input. With the FREQ knob set in the center position you can use this to match the tuning of multiple oscillator modules in your system or calibrate the overall pitch of the module for use with a MIDI-CV controller.
 
 
 
-**Additional Notes
+Additional Notes
 
 For instruction on how to calibrate the 3340 VCO refer to the build document.
 
