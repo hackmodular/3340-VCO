@@ -1,7 +1,5 @@
 3340 Voltage Controlled Oscillator
 
-User Guide
-
 This module is a performance focused take on the classic CEM3340 Curtis chip based oscillators heard in historic synthesizers like the Prophet 5 and Memorymoog.
 
 The most useful features of the chip are made accessible and optimised for sending or receiving control. Panel controls are intended to allow quick and unobstructed access to musical ideas.
